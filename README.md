@@ -1,2 +1,2 @@
 # Generate-TV-Scripts
-Generate TV Scrips using RNN with Tensorflow
+Generate TV Scrips with RNN using Tensorflow
